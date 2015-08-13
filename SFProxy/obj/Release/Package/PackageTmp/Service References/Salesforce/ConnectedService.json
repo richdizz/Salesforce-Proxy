@@ -1,0 +1,10 @@
+﻿{
+  "ProviderId": "Salesforce.ForceDotCom",
+  "Version": "1.0.0.0",
+  "GettingStartedDocument": {
+    "Uri": "http://developer.salesforce.com/go/VSAddinDoc"
+  },
+  "ExtendedData": {
+    "ModelsHintPath": "Models\\Salesforce"
+  }
+}
